@@ -24,27 +24,38 @@
 <img src='https://github.com/TheRplima/TheRplima/blob/main/images/laravel.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/nodejs.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/react.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/git.svg' width='30'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user='Rodrigo Pereira Lima'
-		current_edu="St. Mary's Group of Institutions"
-		hobbies=[
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return MonteSantoDeMinas_MinasGerais_Brazil()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+```php
+<?php
+namespace TheRplima;
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Looking for a new job',
+                'position' => 'Full stack Developer'         
+            ]
+        ];
+    }
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Nodejs::class,
+            Reactjs::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
  
 ## Current Works
  * I'm currently working on 🔭 building **Awesome and Usefull WEB apps using Laravel** and working up on polishing my skills 🌱 in **Javascript based languages**.
