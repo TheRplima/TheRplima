@@ -52,7 +52,7 @@
  * Getting Started with NodeJS and the MERN Stack!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
+  - :octocat: [My Resume](https://docs.google.com/document/d/e/2PACX-1vS39-u1Rv3JiXoIi26_Hsk6cQtmJ4YQG6p9T1ZIhxOR2UWKavrft32oe0Ontk2UsMKrPTR9CFsK9Lcb/pub)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=TheRplima&show_icons=true&hide=[%22issues%22])
