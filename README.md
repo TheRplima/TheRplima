@@ -18,11 +18,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRplima&layout=compact">
 
 ## Programming Languages
-<img src='https://github.com/TheRplima/TheRplima/blob/main/images/c-original.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/cpp.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/python2.png' height='30'/>  <img src='https://github.com/TheRplima/TheRplima/blob/main/images/html.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/java.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/kotlin.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/css.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/js.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/bootstrap.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/dart.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/php.svg' width='40'/>
- <img src='https://github.com/TheRplima/TheRplima/blob/main/images/sql.svg' width='30'/> 
+<img src='https://github.com/TheRplima/TheRplima/blob/main/images/python2.png' height='30'/>  <img src='https://github.com/TheRplima/TheRplima/blob/main/images/html.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/css.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/js.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/bootstrap.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/php.svg' width='40'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src='https://github.com/TheRplima/TheRplima/blob/main/images/pycharm.svg' width='30'/>  <img src='https://github.com/TheRplima/TheRplima/blob/main/images/android.svg' height='40'/><img src='https://github.com/TheRplima/TheRplima/blob/main/images/flutter-logo.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/django.svg' height='40'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/flask.png' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/git.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/nodejs.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/react.svg' width='33'/>
+<img src='https://github.com/TheRplima/TheRplima/blob/main/images/laravel.svg' width='30'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/nodejs.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/react.svg' width='33'/> <img src='https://github.com/TheRplima/TheRplima/blob/main/images/git.svg' width='30'/>
  
  ## Who am I?
  ```python
@@ -48,7 +47,7 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on 🔭 building **Awesome and Usefull WEB apps using Laravel** and working up on polishing my skills 🌱 in **Javascript based languages**.
  * Getting Started with NodeJS and the MERN Stack!!
  
 ## Other Stuff
