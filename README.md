@@ -10,9 +10,9 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
+* PHP
 * Node.JS
 * Typescript
-* Data Science
 * Frontend and Backend Web Development
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRplima&layout=compact">
