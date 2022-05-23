@@ -33,8 +33,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Looking for a new job',
-                'position' => 'Full stack Developer'         
+                'company' => 'Grupo Adriano Cobuccio',
+                'position' => 'Full Stack Web Developer'         
             ]
         ];
     }
